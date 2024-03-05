@@ -3,4 +3,10 @@ I kept trying to edit the file but I hadn't actually created the new pull reques
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
 var myVar = "Hello, world!";
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
